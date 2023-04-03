@@ -17,9 +17,9 @@ Files:
 * data
   - interim, *TBD*
   - processed, *TBD*
-  - raw,
-* report *TBD*
-* models *TBD*
+  - [raw](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/raw.xlsx),
+* report, *TBD*
+* models, *TBD*
 * requirements.txt *TBD*
 
 Libraries used:
