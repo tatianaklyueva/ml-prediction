@@ -15,8 +15,8 @@ Notebook is based on:
 
 Files:
 * data
-  - interim, *TBD*
-  - processed, *TBD*
+  - [interim](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/interim.csv), 
+  - [processed](https://github.com/tatianaklyueva/ml-prediction/tree/main/data/processed),
   - [raw](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/raw.xlsx),
 * report, *TBD*
 * models, *TBD*
