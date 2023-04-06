@@ -1,5 +1,5 @@
 # ml-prediction
-Project uses ML-model for prediction of penguin species.
+The project uses ML-models to predict penguin species.
 
 This project was prepared for the course Data-X – applied data analytics models in real world tasks, Prague University of Economics and Business.
 
