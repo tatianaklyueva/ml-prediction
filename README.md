@@ -21,6 +21,7 @@ Files:
 * report, *TBD*
 * [models](https://github.com/tatianaklyueva/ml-prediction/tree/main/models), *TBD*
 * requirements.txt *TBD*
+* notebook *TBD*
 
 Libraries used:
 - pandas, numpy, matplotlib.pyplot, seaborn, pickle, tensorlow, sklearn, keras, xgboost.
