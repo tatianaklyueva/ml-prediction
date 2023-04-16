@@ -23,4 +23,4 @@ Files:
 * requirements.txt *TBD*
 
 Libraries used:
-- pandas; ...
+- pandas, numpy, matplotlib.pyplot, seaborn, pickle, tensorlow, sklearn, keras, xgboost.
