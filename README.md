@@ -19,7 +19,7 @@ Files:
   - [processed](https://github.com/tatianaklyueva/ml-prediction/tree/main/data/processed),
   - [raw](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/raw.xlsx),
 * report, *TBD*
-* models, *TBD*
+* [models](https://github.com/tatianaklyueva/ml-prediction/tree/main/models), *TBD*
 * requirements.txt *TBD*
 
 Libraries used:
