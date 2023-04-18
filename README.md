@@ -13,7 +13,7 @@ Collaborators:
 Notebook is based on study materials from the course by William Arias, Filip Habarta, Pavel Zimmermann.
 
 Files:
-* data
+* [data](https://github.com/tatianaklyueva/ml-prediction/tree/main/data):
   - [interim](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/interim.csv), 
   - [processed](https://github.com/tatianaklyueva/ml-prediction/tree/main/data/processed),
   - [raw](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/raw.xlsx),
