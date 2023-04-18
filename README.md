@@ -17,7 +17,7 @@ Files:
   - [interim](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/interim.csv), 
   - [processed](https://github.com/tatianaklyueva/ml-prediction/tree/main/data/processed),
   - [raw](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/raw.xlsx),
-* report, *TBD*
+* [report](https://github.com/tatianaklyueva/ml-prediction/blob/main/Report.pdf),
 * [models](https://github.com/tatianaklyueva/ml-prediction/tree/main/models),
 * [requirements.txt](https://github.com/tatianaklyueva/ml-prediction/blob/main/Requirements.txt)
 * [notebook](https://github.com/tatianaklyueva/ml-prediction/blob/main/Notebook_1.ipynb)
