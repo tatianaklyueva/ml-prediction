@@ -10,8 +10,7 @@ Collaborators:
 - Marek Styblík,
 - Ondṙej Šesták.
 
-Notebook is based on:
-- study materials from the course by William Arias, Filip Habarta, Pavel Zimmermann.
+Notebook is based on study materials from the course by William Arias, Filip Habarta, Pavel Zimmermann.
 
 Files:
 * data
