@@ -20,7 +20,7 @@ Files:
 * report, *TBD*
 * [models](https://github.com/tatianaklyueva/ml-prediction/tree/main/models),
 * [requirements.txt](https://github.com/tatianaklyueva/ml-prediction/blob/main/Requirements.txt)
-* notebook *TBD*
+* [notebook](https://github.com/tatianaklyueva/ml-prediction/blob/main/Notebook_1.ipynb)
 
 Libraries used:
 - pandas, numpy, matplotlib.pyplot, seaborn, pickle, tensorlow, sklearn, keras, xgboost.
