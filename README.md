@@ -11,7 +11,7 @@ Collaborators:
 - Ondṙej Šesták.
 
 Notebook is based on:
-...
+- study materials from the course by William Arias, Filip Habarta, Pavel Zimmermann.
 
 Files:
 * data
@@ -19,7 +19,7 @@ Files:
   - [processed](https://github.com/tatianaklyueva/ml-prediction/tree/main/data/processed),
   - [raw](https://github.com/tatianaklyueva/ml-prediction/blob/main/data/raw.xlsx),
 * report, *TBD*
-* [models](https://github.com/tatianaklyueva/ml-prediction/tree/main/models), *TBD*
+* [models](https://github.com/tatianaklyueva/ml-prediction/tree/main/models),
 * requirements.txt *TBD*
 * notebook *TBD*
 
